@@ -1,0 +1,17 @@
+{
+    "name": "Erin Kelley",
+    "website": "https://erinkelley27.github.io/",
+    "linkedin": "https://www.linkedin.com/in/erinmargaretkelley/",
+    "github": "erinkelley27",
+    "email": "erinkelley27@gmail.com",
+    "resume": "https://erinkelley27.github.io/img/resume-erinkelley.pdf",
+    "proficient-technologies": [
+        "html", 
+        "css", 
+        "javascript", 
+        "node"
+    ],
+    "other-skills": [
+        "event planning"
+    ]
+}
